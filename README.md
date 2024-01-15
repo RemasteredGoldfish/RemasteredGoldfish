@@ -11,19 +11,19 @@
 
 # About Me 🙋‍♂️ :
 
-### - I'm 23 years old student who is learning Data Structures from the Netherlands.
+### - I'm 23 years old student who is learning software development from the Netherlands.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/studying-windy.gif">
 
 ### - Learning :
-- 🍜 python in general
-- 🍜 javascript in general
-- 🍜 Laravel in general
+- 🍜 python
+- 🍜 javascript (react/mobile native)
+- 🍜 Laravel
 
 ### - Hobbies : 
 - 🍜 Gaming 
-- 🍜 Watching Anime
-- 🍜 Photography
+- 🍜 trying something new
+- 🍜 Photography/videography
 - 🍜 Fitness at the gym
 
 </br>
