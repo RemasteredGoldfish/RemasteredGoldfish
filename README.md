@@ -44,7 +44,6 @@
  <img src="assets/php.png" alt="pc" width="100" hight="50">
 </br>
 <img src="assets/js.png" alt="javascript" width="150" hight="50">
-<img src="assets/icons/pc.png" alt="pc" width="100" hight="50">
 </p>
 </br>
 </br>
@@ -68,9 +67,6 @@ If you want to contact me or reach out to me about anything you can always conta
 <a href="mailto:jahny888@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
 </a>
-</a>
-<a href="https://steamcommunity.com/profiles/76561198136377851">
-  <img align="left" alt="Steam" width="120" hight="100" src="assets/icons/steam.png" />
 </a>
  </p>
  
