@@ -39,10 +39,8 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges (this is more for myself) -->
 <img src="assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 <img src="assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
  <img src="assets/php.png" alt="pc" width="100" hight="50">
-</br>
 <img src="assets/js.png" alt="javascript" width="150" hight="50">
 </p>
 </br>
