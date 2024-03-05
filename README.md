@@ -11,7 +11,7 @@
 
 # About Me 🙋‍♂️ :
 
-### - I'm 23 years old and i am a student who is learning software development in the Netherlands.
+### - I'm a 23 year student who is studying software development in the Netherlands.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/studying-windy.gif">
 
