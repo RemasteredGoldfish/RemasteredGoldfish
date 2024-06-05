@@ -11,7 +11,7 @@
 
 # About Me 🙋‍♂️ :
 
-### - I'm a {{age}} year student who is studying software development in the Netherlands.
+### - I'm a 24 year student who is studying software development in the Netherlands.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/studying-windy.gif">
 
@@ -62,7 +62,7 @@
 
 If you want to contact me or reach out to me about anything you can always contact my email (website is comming soon)
 
-<a href="mailto:jahny888@gmail.com">
+<a href="mailto:jahny888@gmail.com"> {{ age }}
  <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
 </a>
 </a>
