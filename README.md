@@ -33,7 +33,7 @@
 
 
 # Languages im learning & Platforms  👨‍💻 :
-</br>
+</br> {{ age }}
 
 <p align="center">
 
@@ -62,7 +62,7 @@
 
 If you want to contact me or reach out to me about anything you can always contact my email (website is comming soon)
 
-<a href="mailto:jahny888@gmail.com"> {{ age }}
+<a href="mailto:jahny888@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
 </a>
 </a>
