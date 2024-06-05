@@ -1,29 +1,30 @@
-name: Update Birth Year
+name: Update Age in README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
-  workflow_dispatch:  # Allows you to manually trigger the workflow
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-birth-year:
+  update-age:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Calculate and Update Birth Year
+    - name: Update Age in README
       run: |
         today=$(date '+%m-%d')
         birthday="04-04"
         if [ "$today" == "$birthday" ]; then
           current_year=$(date '+%Y')
-          birth_year=$(($current_year - 24))
-          sed -i "s/Born in [0-9]\{4\}/Born in $birth_year/" README.md
+          birth_year=2000
+          age=$(($current_year - $birth_year))
+          sed -i "s/I'm a [0-9]\+ year/I\'m a $age year/" README.md
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Update birth year"
+          git commit -m
           git push
         fi
