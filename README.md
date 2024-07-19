@@ -17,7 +17,7 @@
 
 ### - Learning :
 - 🍜 python
-- 🍜 javascript (react/mobile native)
+- 🍜 javascript
 - 🍜 Php, Php Laravel
 
 ### - Hobbies : 
