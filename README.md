@@ -33,7 +33,6 @@
 
 
 # Languages im learning & Platforms  👨‍💻 :
-</br> {{ age }}
 
 <p align="center">
 
